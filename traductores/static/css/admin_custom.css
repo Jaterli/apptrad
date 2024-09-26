@@ -1,0 +1,5 @@
+.checkbox-columns {
+    column-count: 2; /* Divide las opciones en 2 columnas */
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+}
